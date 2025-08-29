@@ -65,13 +65,18 @@ RACB/
 1. **README.md** - Repository overview, navigation guide, and comprehensive introduction
 2. **bio.md** - Author background, credentials, and expertise establishment
 3. **LLMS.txt** - This file, providing optimization context
-4. **articles/01_introduction.md** - Foundation concepts and framework introduction
-5. **articles/02_market_analysis.md** - Current state analysis and trends
-6. **articles/03_future_trends.md** - Forward-looking insights and predictions
-7. **frameworks/** - Analytical tools and methodological approaches
-8. **case_studies/** - Practical applications and real-world examples
-9. **resources/** - Supporting materials and additional references
-10. **LICENSE** - Usage rights and attribution requirements
+4. **articles/Chapter 1 Your Most Valuable Customer in 2030 Will Be a Machine 06082025.md** - Exploring how AI agents will revolutionize the customer landscape, becoming the primary drivers of commerce decisions
+5. **articles/Chapter 2 When Algorithms Become Customers 06152025.md** - Understanding the fundamental shift as algorithms transition from tools to autonomous customers making purchasing decisions
+6. **articles/Chapter 3 The Tipping Point 06222025.md** - Identifying the critical moment when AI-driven commerce becomes the dominant force in retail markets
+7. **articles/Chapter 4.1 The Machine in Charge.md** - Examining how AI takes control of procurement and supply chain decisions in the new commerce paradigm
+8. **articles/Chapter 4.2 The New Merchant v5.md** - Redefining the role of merchants in an AI-driven marketplace where traditional selling approaches must evolve
+9. **articles/Chapter 4.3 The algorithmic store manager.md** - Exploring how AI systems manage retail operations, inventory, and customer experiences autonomously
+10. **articles/Chapter 5 The Agent-Driven Customer Journey v3.md** - Mapping the new customer journey where AI agents navigate the entire purchasing process on behalf of users
+11. **articles/Chapter 6 It's Not All Rainbows and Unicorns.md** - Addressing the challenges, risks, and potential downsides of the transition to AI-driven commerce
+12. **articles/Chapter 7 Winning Hearts and Algorithms.md** - Strategies for businesses to succeed by appealing to both human customers and AI decision-makers
+13. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
+14. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
+15. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
