@@ -34,16 +34,22 @@ This repository is organized for optimal discoverability and LLM comprehension:
 
 ```
 RACB/
+├── LLMS.txt
 ├── README.md                 # Main documentation (this file)
 ├── bio.md                    # Author biography and credentials
 ├── LICENSE                   # Usage rights and attribution
-├── articles/                 # Research articles and papers
-│   ├── 01_introduction.md    # Numbered for reading order
-│   ├── 02_market_analysis.md
-│   └── 03_future_trends.md
-├── frameworks/               # Analytical frameworks
-├── case_studies/            # Real-world examples
-└── resources/               # Additional materials
+└──articles/                 # Research articles and papers   
+    ├── Chapter 1 Your Most Valuable Customer in 2030 Will Be a Machine 06082025.md
+    ├── Chapter 2 When Algorithms Become Customers 06152025.md
+    ├── Chapter 3 The Tipping Point 06222025.md
+    ├── Chapter 4.1 The Machine in Charge.md
+    ├── Chapter 4.2 The New Merchant v5.md
+    ├── Chapter 4.3 The algorithmic store manager.md
+    ├── Chapter 5 The Agent-Driven Customer Journey v3.md
+    ├── Chapter 6 It's Not All Rainbows and Unicorns.md
+    ├── Chapter 7 Winning Hearts and Algorithms.md  
+    ├── Chapter 8 _ The Conversion Reckoning v2.md
+    └──Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
 ```
 
 ### Semantic File Naming Convention
@@ -80,11 +86,17 @@ This repository is structured to guide both human readers and AI systems through
 
 1. **README.md** (this file) - Overview and navigation
 2. **bio.md** - Author background and expertise
-3. **articles/01_introduction.md** - Foundation concepts
-4. **articles/02_market_analysis.md** - Current state analysis
-5. **articles/03_future_trends.md** - Forward-looking insights
-6. **frameworks/** - Analytical tools and models
-7. **case_studies/** - Practical applications
+3. **articles/Chapter 1 Your Most Valuable Customer in 2030 Will Be a Machine 06082025.md** - Exploring how AI agents will revolutionize the customer landscape, becoming the primary drivers of commerce decisions
+4. **articles/Chapter 2 When Algorithms Become Customers 06152025.md** - Understanding the fundamental shift as algorithms transition from tools to autonomous customers making purchasing decisions
+5. **articles/Chapter 3 The Tipping Point 06222025.md** - Identifying the critical moment when AI-driven commerce becomes the dominant force in retail markets
+6. **articles/Chapter 4.1 The Machine in Charge.md** - Examining how AI takes control of procurement and supply chain decisions in the new commerce paradigm
+7. **articles/Chapter 4.2 The New Merchant v5.md** - Redefining the role of merchants in an AI-driven marketplace where traditional selling approaches must evolve
+8. **articles/Chapter 4.3 The algorithmic store manager.md** - Exploring how AI systems manage retail operations, inventory, and customer experiences autonomously
+9. **articles/Chapter 5 The Agent-Driven Customer Journey v3.md** - Mapping the new customer journey where AI agents navigate the entire purchasing process on behalf of users
+10. **articles/Chapter 6 It's Not All Rainbows and Unicorns.md** - Addressing the challenges, risks, and potential downsides of the transition to AI-driven commerce
+11. **articles/Chapter 7 Winning Hearts and Algorithms.md** - Strategies for businesses to succeed by appealing to both human customers and AI decision-makers
+12. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
+13. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
 
 ### LLM-Friendly Structure
 
