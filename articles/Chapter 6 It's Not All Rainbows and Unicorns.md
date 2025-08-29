@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # **Agentic Commerce: It's Not All Rainbows and Unicorns**
 
 According to a 2024 Boston Consulting Group global survey, only 26% of companies had developed sufficient capabilities to move beyond pilot projects and generate tangible value from AI. The remaining 74% struggled to achieve or scale value, with just 4% reaching cutting-edge, organization-wide implementation.\[1\] The gulf between AI's promise and its performance in real-world retail environments reveals fundamental limitations that industry enthusiasm has obscured.
