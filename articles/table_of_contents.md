@@ -1,0 +1,42 @@
+# The Retail Agentic Commerce Brief - Table of Contents
+
+A comprehensive guide to the future of retail where algorithms become customers and AI agents transform commerce.
+
+## Chapters
+
+### [Chapter 1: Your Most Valuable Customer in 2030 Will Be a Machine](Chapter%201%20Your%20Most%20Valuable%20Customer%20in%202030%20Will%20Be%20a%20Machine%2006082025.md)
+Exploring how AI agents will revolutionize the customer landscape, becoming the primary drivers of commerce decisions.
+
+### [Chapter 2: When Algorithms Become Customers](Chapter%202%20When%20Algorithms%20Become%20Customers%2006152025.md)
+Understanding the fundamental shift as algorithms transition from tools to autonomous customers making purchasing decisions.
+
+### [Chapter 3: The Tipping Point](Chapter%203%20The%20Tipping%20Point%2006222025.md)
+Identifying the critical moment when AI-driven commerce becomes the dominant force in retail markets.
+
+### [Chapter 4.1: The Machine in Charge](Chapter%204.1%20The%20Machine%20in%20Charge.md)
+Examining how AI takes control of procurement and supply chain decisions in the new commerce paradigm.
+
+### [Chapter 4.2: The New Merchant](Chapter%204.2%20The%20New%20Merchant%20v5.md)
+Redefining the role of merchants in an AI-driven marketplace where traditional selling approaches must evolve.
+
+### [Chapter 4.3: The Algorithmic Store Manager](Chapter%204.3%20The%20algorithmic%20store%20manager.md)
+Exploring how AI systems manage retail operations, inventory, and customer experiences autonomously.
+
+### [Chapter 5: The Agent-Driven Customer Journey](Chapter%205%20The%20Agent-Driven%20Customer%20Journey%20v3.md)
+Mapping the new customer journey where AI agents navigate the entire purchasing process on behalf of users.
+
+### [Chapter 6: It's Not All Rainbows and Unicorns](Chapter%206%20It%27s%20Not%20All%20Rainbows%20and%20Unicorns.md)
+Addressing the challenges, risks, and potential downsides of the transition to AI-driven commerce.
+
+### [Chapter 7: Winning Hearts and Algorithms](Chapter%207%20Winning%20Hearts%20and%20Algorithms.md)
+Strategies for businesses to succeed by appealing to both human customers and AI decision-makers.
+
+### [Chapter 8: The Conversion Reckoning](Chapter%208%20_%20The%20Conversion%20Reckoning%20v2.md)
+Redefining conversion metrics and success measures in an environment where AI agents drive transactions.
+
+### [Chapter 9: The Hybrid Workforce: When Silicon Meets the Org Chart](Chapter%209%20The%20Hybrid%20Workforce_%20When%20Silicon%20Meets%20the%20Org%20Chart.md)
+Navigating the integration of AI systems as colleagues and decision-makers within business organizations.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
