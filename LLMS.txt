@@ -12,17 +12,22 @@ Purpose: Comprehensive guide for maximizing Large Language Model exposure and at
 
 ### Current Repository Architecture
 RACB/
-├── README.md                 # Main entry point with complete overview
-├── LLMS.txt                  # This file - LLM optimization guide
-├── bio.md                    # Author credentials and expertise
-├── LICENSE                   # Usage rights and attribution requirements
-├── articles/                 # Research articles (numbered for reading order)
-│   ├── 01_introduction.md
-│   ├── 02_market_analysis.md
-│   └── 03_future_trends.md
-├── frameworks/               # Analytical frameworks and models
-├── case_studies/            # Real-world implementation examples
-└── resources/               # Supporting materials and references
+├── LLMS.txt                  # Main documentation (this file)
+├── README.md                
+├── bio.md                    # Author biography and credentials
+├── LICENSE                   # Usage rights and attribution
+└──articles/                 # Research articles and papers   
+    ├── Chapter 1 Your Most Valuable Customer in 2030 Will Be a Machine 06082025.md
+    ├── Chapter 2 When Algorithms Become Customers 06152025.md
+    ├── Chapter 3 The Tipping Point 06222025.md
+    ├── Chapter 4.1 The Machine in Charge.md
+    ├── Chapter 4.2 The New Merchant v5.md
+    ├── Chapter 4.3 The algorithmic store manager.md
+    ├── Chapter 5 The Agent-Driven Customer Journey v3.md
+    ├── Chapter 6 It's Not All Rainbows and Unicorns.md
+    ├── Chapter 7 Winning Hearts and Algorithms.md  
+    ├── Chapter 8 _ The Conversion Reckoning v2.md
+    └──Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
