@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 **A Note on The Next Set of Articles**
 
 The idea that agentic artificial intelligence will fundamentally reshape the retail industry is no longer fringe thinking. The bigger question for executives is how this transformation will manifest in practice. The theoretical promise of AI agents: autonomous, goal-oriented systems that act on a company’s behalf, is compelling, but strategy cannot be built on theory alone.
