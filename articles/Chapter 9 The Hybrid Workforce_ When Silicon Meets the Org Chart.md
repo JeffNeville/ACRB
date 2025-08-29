@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # **The Hybrid Workforce: When Silicon Meets the Org Chart**
 
 At Procter & Gamble's Cincinnati headquarters, a curious experiment has been unfolding. Research teams that once relied solely on human expertise now include artificial intelligence systems as permanent members. The results challenge conventional wisdom about workplace productivity: mixed human-AI teams solve problems 12% to 16% faster than human-only groups and are 9.2% more likely to deliver breakthrough solutions, according to joint research with Harvard and Wharton. Yet this transformation comes with a paradox that business leaders worldwide must confront: while AI promises to augment human capability, it also demands fundamental changes to how companies organize, measure, and manage their workforce.
