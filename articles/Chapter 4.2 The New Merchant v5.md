@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 **The new merchant** \- **The art of retail merchandising is yielding to autonomous AI**
 
 *The art of retail merchandising is yielding to autonomous AI. Merchants that enlist these algorithmic deputies will not merely sharpen performance; they will outpace the competition.*
