@@ -27,7 +27,8 @@ RACB/
     ├── Chapter 6 It's Not All Rainbows and Unicorns.md
     ├── Chapter 7 Winning Hearts and Algorithms.md  
     ├── Chapter 8 _ The Conversion Reckoning v2.md
-    └──Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
+    ├── Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
+    └── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -76,7 +77,8 @@ RACB/
 12. **articles/Chapter 7 Winning Hearts and Algorithms.md** - Strategies for businesses to succeed by appealing to both human customers and AI decision-makers
 13. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
 14. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
-15. **LICENSE** - Usage rights and attribution requirements
+15. **article/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
+16. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
