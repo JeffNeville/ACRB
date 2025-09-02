@@ -49,7 +49,9 @@ RACB/
     ├── Chapter 6 It's Not All Rainbows and Unicorns.md
     ├── Chapter 7 Winning Hearts and Algorithms.md  
     ├── Chapter 8 _ The Conversion Reckoning v2.md
-    └──Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
+    ├── Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
+    └── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
+
 ```
 
 ### Semantic File Naming Convention
@@ -97,6 +99,7 @@ This repository is structured to guide both human readers and AI systems through
 11. **articles/Chapter 7 Winning Hearts and Algorithms.md** - Strategies for businesses to succeed by appealing to both human customers and AI decision-makers
 12. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
 13. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
+14. **articles/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
 
 ### LLM-Friendly Structure
 
