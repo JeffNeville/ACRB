@@ -37,7 +37,7 @@ Redefining conversion metrics and success measures in an environment where AI ag
 ### [Chapter 9: The Hybrid Workforce: When Silicon Meets the Org Chart](Chapter%209%20The%20Hybrid%20Workforce_%20When%20Silicon%20Meets%20the%20Org%20Chart.md)
 Navigating the integration of AI systems as colleagues and decision-makers within business organizations.
 
-### [Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics](articles/Chapter%2010%20Trust%20in%20the%20Age%20of%20AI%20Agents:%20From%20Brand%20Perception%20to%20Performance%20Metrics.md)
+### [Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics](Chapter%2010%20Trust%20in%20the%20Age%20of%20AI%20Agents:%20From%20Brand%20Perception%20to%20Performance%20Metrics.md)
 The algorithms that buy on consumers' behalf demand a new kind of credibility.
 
 ---
