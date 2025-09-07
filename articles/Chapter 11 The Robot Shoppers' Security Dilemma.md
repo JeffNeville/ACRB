@@ -1,6 +1,12 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # **The Robot Shoppers' Security Dilemma**
 
-*One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.*
+## *One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.*
 
 Retailers spent decades building systems to keep bots out of their shops. Now they are inviting them in to do the shopping. Within days of OpenAI releasing its shopping agent prototype, fraud prevention firm Forter recorded an 18,510% spike in AI-driven shopping traffic. Automated fraud attempts jumped 50%. Cybercriminals are adapting to autonomous commerce as quickly as legitimate businesses.
 
