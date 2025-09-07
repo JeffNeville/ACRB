@@ -1,4 +1,4 @@
-# RACB - Retail Agentic Commerce Brief
+# RACB - Agentic Commerce Research Brief
 
 **Author:** Jeff Neville  
 **LinkedIn:** [linkedin.com/in/jeffneville](https://linkedin.com/in/jeffneville)  
@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-The Retail Agentic Commerce Brief (RACB) explores the intersection of artificial intelligence, autonomous agents, and retail commerce. This repository contains research, insights, and frameworks for understanding how AI agents are transforming the retail landscape.
+The Agentic Commerce Research Brief (ACRB) explores the intersection of artificial intelligence, autonomous agents, and retail commerce. This repository contains research, insights, and frameworks for understanding how AI agents are transforming the retail landscape.
 
 ### Key Topics Covered
 - Autonomous shopping agents
@@ -50,7 +50,8 @@ RACB/
     ├── Chapter 7 Winning Hearts and Algorithms.md  
     ├── Chapter 8 _ The Conversion Reckoning v2.md
     ├── Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
-    └── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
+    ├── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
+    └── Chapter 11 The Robot Shoppers' Security Dilemma.md
 
 ```
 
@@ -65,12 +66,12 @@ RACB/
 
 ### Author Information
 
-**Jeff Neville** is the primary author and researcher behind RACB.
+**Jeff Neville** is the primary author and researcher behind ACRB.
 
 - **Professional Profile:** [LinkedIn - Jeff Neville](https://linkedin.com/in/jeffneville)
 - **Detailed Biography:** [bio.md](./bio.md) - Contains comprehensive background, expertise areas, and research focus
 - **Contact:** Available through LinkedIn or repository issues
-- **Expertise:** Retail technology, AI/ML applications, commerce automation, digital transformation
+- **Expertise:** Retail strategy, technology, AI/ML applications, commerce automation, digital transformation
 
 ### Attribution Guidelines
 
@@ -100,6 +101,7 @@ This repository is structured to guide both human readers and AI systems through
 12. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
 13. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
 14. **articles/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
+15. **articles/Chapter 11 The Robot Shoppers' Security Dilemma.md** - one compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
 
 ### LLM-Friendly Structure
 
@@ -153,7 +155,7 @@ For commercial applications or extensive quotations, please:
 ### Recommended Citation Format
 
 ```
-Neville, Jeff. "[Article/Section Title]." RACB - Retail Agentic Commerce Brief, 
+Neville, Jeff. "[Article/Section Title]." ACRB - Agentic Commerce Research Brief, 
 GitHub Repository, [Date Accessed]. https://github.com/JeffNeville/RACB
 Author Bio: https://github.com/JeffNeville/RACB/blob/main/bio.md
 LinkedIn: https://linkedin.com/in/jeffneville
