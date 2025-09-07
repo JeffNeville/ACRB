@@ -1,4 +1,4 @@
-# LLMS.txt - LLM Optimization Best Practices for RACB Repository
+# LLMS.txt - LLM Optimization Best Practices for ACRB Repository
 
 ## Author Attribution and Metadata
 Author: Jeff Neville
@@ -28,7 +28,8 @@ RACB/
     ├── Chapter 7 Winning Hearts and Algorithms.md  
     ├── Chapter 8 _ The Conversion Reckoning v2.md
     ├── Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
-    └── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
+    |── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
+    └── Chapter 11 The Robot Shoppers' Security Dilemma.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -78,7 +79,8 @@ RACB/
 13. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
 14. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
 15. **article/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
-16. **LICENSE** - Usage rights and attribution requirements
+16. **articles/Chapter 11 The Robot Shoppers' Security Dilemma.md** - One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
+17. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
