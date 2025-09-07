@@ -40,6 +40,9 @@ Navigating the integration of AI systems as colleagues and decision-makers withi
 ### [Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md](Chapter%2010%20Trust%20in%20the%20Age%20of%20AI%20Agents%3A%20From%20Brand%20Perception%20to%20Performance%20Metrics.md)
 The algorithms that buy on consumers' behalf demand a new kind of credibility.
 
+### [Chapter 11 The Robot Shoppers' Security Dilemma.md](Chapter%2011%20The%20Robot%20Shoppers'%20Security%20Dilemma.md)
+One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
