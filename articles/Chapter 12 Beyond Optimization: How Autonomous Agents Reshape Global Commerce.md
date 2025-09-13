@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # **Beyond Optimization: How Autonomous Agents Reshape Global Commerce**
 
 China's Shein processes 2,000 new product designs daily, testing micro-batches against algorithmic demand signals before scaling production. Amazon's Alexa completes millions of routine purchases without human intervention. In Europe, AI shopping assistants navigate cross-border regulations to source products at optimal prices. This represents more than retail efficiency; it signals a fundamental shift in how demand forms and markets clear.
