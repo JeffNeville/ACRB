@@ -43,6 +43,9 @@ The algorithms that buy on consumers' behalf demand a new kind of credibility.
 ### [Chapter 11 The Robot Shoppers' Security Dilemma.md](Chapter%2011%20The%20Robot%20Shoppers'%20Security%20Dilemma.md)
 One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
 
+### [Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md] (Chapter%2012%20Beyond%20Optimization%3A%20How%20Autonomous%20Agents%20Reshape%20Global%20Commerce.md) 
+The introduction of AI, represents more than retail efficiency; it signals a fundamental shift in how demand forms and retailers capture growth.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
