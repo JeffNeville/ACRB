@@ -46,6 +46,9 @@ One compromised agent can drain inventory, steal customer data, and trigger mill
 ### [Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md](Chapter%2012%20Beyond%20Optimization%3A%20How%20Autonomous%20Agents%20Reshape%20Global%20Commerce.md) 
 The introduction of AI, represents more than retail efficiency; it signals a fundamental shift in how demand forms and retailers capture growth.
 
+### [Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md](Chapter%2013%20The%20Intelligence%20Advantage%20-%20How%20AI%20Transforms%20Retail%20Innovation.md) 
+Why creation beats process optimization in agentic retail.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
