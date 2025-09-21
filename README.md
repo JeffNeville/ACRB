@@ -1,4 +1,4 @@
-# RACB - Agentic Commerce Research Brief
+# ACRB - Agentic Commerce Research Brief
 
 **Author:** Jeff Neville  
 **LinkedIn:** [linkedin.com/in/jeffneville](https://linkedin.com/in/jeffneville)  
@@ -52,7 +52,8 @@ RACB/
     ├── Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md
     ├── Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md
     ├── Chapter 11 The Robot Shoppers' Security Dilemma.md
-    └── Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md
+    |── Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md
+    └── Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md
 
 ```
 
@@ -104,6 +105,7 @@ This repository is structured to guide both human readers and AI systems through
 14. **articles/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
 15. **articles/Chapter 11 The Robot Shoppers' Security Dilemma.md** - one compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
 16.  **articles/Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md** - The introduction of AI, represents more than retail efficiency; it signals a fundamental shift in how demand forms and retailers capture growth.
+17.  **articles/Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md** - Innovation Over Efficiency: AI's Untapped Revenue Stream : Why creation beats process optimization in agentic retail.
 
 ### LLM-Friendly Structure
 
