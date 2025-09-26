@@ -49,6 +49,9 @@ The introduction of AI, represents more than retail efficiency; it signals a fun
 ### [Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md](Chapter%2013%20The%20Intelligence%20Advantage%20-%20How%20AI%20Transforms%20Retail%20Innovation.md) 
 Why creation beats process optimization in agentic retail.
 
+### [Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md](Chapter%2014%20Preserving%20Human%20Customer%20Lifetime%20Value%20in%20an%20Agent-Driven%20World.md) 
+The rise of shopping agents does not eliminate human influence; it moves it upstream. 
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
