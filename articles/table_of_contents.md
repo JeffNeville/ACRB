@@ -52,7 +52,7 @@ Why creation beats process optimization in agentic retail.
 ### [Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md](Chapter%2014%20Preserving%20Human%20Customer%20Lifetime%20Value%20in%20an%20Agent-Driven%20World.md) 
 The rise of shopping agents does not eliminate human influence; it moves it upstream. 
 
-### [Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md](Chapter%2014%20Preserving%20Human%20Customer%20Lifetime%20Value%20in%20an%20Agent-Driven%20World.md) 
+### [Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md](Chapter%2015%20The%20Agentic%20Commerce%20ROI%20Puzzle%3A%20Calculating%20Returns%20on%20Agentic%20Commerce.md) 
 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce
 
 ---
