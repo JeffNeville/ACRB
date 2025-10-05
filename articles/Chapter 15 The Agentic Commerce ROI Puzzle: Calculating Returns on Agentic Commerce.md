@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce
 
 Imagine a chief executive at a European retail chain that recently faced an uncomfortable question from her board: after spending €12 million, roughly 3% of annual revenue, on artificial intelligence systems, where is the ROI? The technology worked. Algorithms adjusted prices in real time, managed inventory across channels, resolved customer complaints. Yet the returns remained opaque and difficult to justify. Traditional financial models, built for store openings and headcount reduction, could not capture what the machines actually delivered. Research from the IBM Institute for Business Value shows that most executives struggle to justify AI investments using conventional ROI calculations. The problem lies in the accounting. Autonomous AI systems, which execute complex commercial decisions without continuous human oversight, break the linear relationship between capital input and measurable output that finance departments depend on.
