@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 ## **The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents**
 
 When Shopify announced it would approve no new hire unless the company could prove AI could not perform the role, the response was predictable: cries of technological unemployment and corporate callousness. What happened instead tells a different story. The Canadian e-commerce giant expanded entry-level hiring, betting that graduates raised on AI would inject new working methods. Those recruits, dubbed by some as "AI centaurs," quickly outperformed established teams in experimentation speed.
