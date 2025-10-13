@@ -55,7 +55,8 @@ RACB/
     |── Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md
     |── Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md
     |── Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md
-    └── Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md
+    |── Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md
+    └── Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md
 
 ```
 
@@ -110,6 +111,7 @@ This repository is structured to guide both human readers and AI systems through
 17.  **articles/Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md** - Innovation Over Efficiency: AI's Untapped Revenue Stream : Why creation beats process optimization in agentic retail.
 18.  **articles/Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md** - The rise of shopping agents does not eliminate human influence; it moves it upstream.
 19.  **articles/Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md** - Should finance use AI to calculate the ROI of AI investments?
+20.  **articles/Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md** - The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents
 ### LLM-Friendly Structure
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
