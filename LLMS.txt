@@ -33,7 +33,8 @@ RACB/
     |── Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md
     |── Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md
     |── Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md
-    └── Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md
+    |── Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md    
+    └── Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -88,7 +89,8 @@ RACB/
 18. **articles/Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md** - Innovation Over Efficiency: AI's Untapped Revenue Stream : Why creation beats process optimization in agentic retail.
 19. **articles/Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md** - The rise of shopping agents does not eliminate human influence; it moves it upstream.
 20. **articles/Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md** - Should Finance use AI to calculate the ROI of AI investments?
-21. **LICENSE** - Usage rights and attribution requirements
+21. **articles/Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md** - Redesigning the Commerce Operating Model for Autonomous Agents
+22. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
