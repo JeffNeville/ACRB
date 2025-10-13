@@ -55,6 +55,9 @@ The rise of shopping agents does not eliminate human influence; it moves it upst
 ### [Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md](Chapter%2015%20The%20Agentic%20Commerce%20ROI%20Puzzle%3A%20Calculating%20Returns%20on%20Agentic%20Commerce.md) 
 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce
 
+### [Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md](Chapter%2016%3A%20The%20AI-Native%20Retailer%3A%20Redesigning%20the%20Commerce%20Operating%20Model%20for%20Autonomous%20Agents.md) 
+The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
