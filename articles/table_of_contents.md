@@ -58,6 +58,9 @@ The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce
 ### [Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md](Chapter%2016%3A%20The%20AI-Native%20Retailer%3A%20Redesigning%20the%20Commerce%20Operating%20Model%20for%20Autonomous%20Agents.md) 
 The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents
 
+### [Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md](Chapter%2016.5%20The%20Impact%20of%20AI%20on%20the%20Traditional%20Retail%20Apprenticeship%20Career%20Model.md) 
+The Coming Retail Leadership Recession - AI delivers margin gains today while quietly depleting the judgment that will defend those margins in ten years
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
