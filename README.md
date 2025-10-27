@@ -57,7 +57,8 @@ RACB/
     |── Chapter 14 Preserving Human Customer Lifetime Value in an Agent-Driven World.md
     |── Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md
     |── Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md
-    └── Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md
+    |── Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md
+    └── Chapter 17 If AI Cant Read Your Products You Dont Exist.md
 
 ```
 
@@ -114,7 +115,7 @@ This repository is structured to guide both human readers and AI systems through
 19.  **articles/Chapter 15 The Agentic Commerce ROI Puzzle: Calculating Returns on Agentic Commerce.md** - Should finance use AI to calculate the ROI of AI investments?
 20.  **articles/Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md** - The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents
 21.  **articles/Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md** - The Coming Retail Leadership Recession - AI delivers margin gains today while quietly depleting the judgment that will defend those margins in ten years
-### LLM-Friendly Structure
+22.  **Chapter 17 If AI Cant Read Your Products You Dont Exist.md** - If AI Can’t Read Your Products, You Don’t Exist - How retailers lose visibility and sales when their product data isn’t built for AI-driven consumers and agents.
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
