@@ -61,6 +61,9 @@ The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous 
 ### [Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md](Chapter%2016.5%20The%20Impact%20of%20AI%20on%20the%20Traditional%20Retail%20Apprenticeship%20Career%20Model.md) 
 The Coming Retail Leadership Recession - AI delivers margin gains today while quietly depleting the judgment that will defend those margins in ten years
 
+### [Chapter 17 If AI Cant Read Your Products You Dont Exist.md](Chapter%2017%20If%20AI%20Cant%20Read%20Your%20Products%20You%20Dont%20Exist.md) 
+If AI Can’t Read Your Products, You Don’t Exist: How retailers lose visibility and sales when their product data isn’t built for AI-driven consumers and agents
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
