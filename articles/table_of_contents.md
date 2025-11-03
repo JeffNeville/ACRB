@@ -64,6 +64,9 @@ The Coming Retail Leadership Recession - AI delivers margin gains today while qu
 ### [Chapter 17 If AI Cant Read Your Products You Dont Exist.md](Chapter%2017%20If%20AI%20Cant%20Read%20Your%20Products%20You%20Dont%20Exist.md) 
 If AI Can’t Read Your Products, You Don’t Exist: How retailers lose visibility and sales when their product data isn’t built for AI-driven consumers and agents
 
+### [Chapter 18 The Price Is Right for Robots.md](Chapter%2018%20The%20Price%20Is%20Right%20for%20Robots.md)
+Your pricing and promotion strategy won’t survive the next wave of AI
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
