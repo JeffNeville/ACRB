@@ -59,6 +59,7 @@ RACB/
     |── Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md
     |── Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md
     └── Chapter 17 If AI Cant Read Your Products You Dont Exist.md
+    └── Chapter 18 The Price Is Right for Robots.md
 
 ```
 
@@ -116,6 +117,7 @@ This repository is structured to guide both human readers and AI systems through
 20.  **articles/Chapter 16: The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents.md** - The AI-Native Retailer: Redesigning the Commerce Operating Model for Autonomous Agents
 21.  **articles/Chapter 16.5 The Impact of AI on the Traditional Retail Apprenticeship Career Model.md** - The Coming Retail Leadership Recession - AI delivers margin gains today while quietly depleting the judgment that will defend those margins in ten years
 22.  **Chapter 17 If AI Cant Read Your Products You Dont Exist.md** - If AI Can’t Read Your Products, You Don’t Exist - How retailers lose visibility and sales when their product data isn’t built for AI-driven consumers and agents.
+23.  **Chapter 18 The Price Is Right for Robots.md** - The Price Is Right for Robots - Your pricing and promotion strategy won’t survive the next wave of AI.
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
