@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 **The Price Is Right for Robots**
 
 Retailers have spent decades perfecting the art of pricing for human shoppers. Eye-tracking studies informed banner placements. Behavioral economists tested price points ending in 99\. Marketing departments refined the psychology of promotional language. That expertise now faces obsolescence. Artificial intelligence shopping agents are beginning to negotiate, compare, and purchase on behalf of consumers. They ignore marketing images, bypass promotional banners, and require something retailers have rarely provided: prices, offers, and terms expressed as structured data.
