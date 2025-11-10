@@ -67,6 +67,9 @@ If AI Can’t Read Your Products, You Don’t Exist: How retailers lose visibili
 ### [Chapter 18 The Price Is Right for Robots.md](Chapter%2018%20The%20Price%20Is%20Right%20for%20Robots.md)
 Your pricing and promotion strategy won’t survive the next wave of AI
 
+### [Chapter 19 Why AI Success in Retail Depends on Culture, Not Code.md](Chapter%2019%20Why%20AI%20Success%20in%20Retail%20Depends%20on%20Culture,%20Not%20Code.md)
+Most Retail AI Investment Is Wasted. Here's Why - Why AI Success in Retail Depends on Culture, Not Code
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
