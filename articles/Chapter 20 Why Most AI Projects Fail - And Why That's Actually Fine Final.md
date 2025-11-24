@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 # **Why Most AI Projects Fail (And Why That's Actually Fine)**
 
 **Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.**
