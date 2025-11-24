@@ -71,7 +71,7 @@ Your pricing and promotion strategy won’t survive the next wave of AI
 Most Retail AI Investment Is Wasted. Here's Why - Why AI Success in Retail Depends on Culture, Not Code
 
 ### [Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md](Chapter%2020%20Why%20Most%20AI%20Projects%20Fail%20-%20And%20Why%20That's%20Actually%20Fine%20Final.md)
-Why Most AI Projects Fail (And Why That's Actually Fine
+Why Most AI Projects Fail (And Why That's Actually Fine. Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
 
 ---
 
