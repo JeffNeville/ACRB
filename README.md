@@ -61,7 +61,7 @@ RACB/
     |── Chapter 17 If AI Cant Read Your Products You Dont Exist.md
     |── Chapter 18 The Price Is Right for Robots.md
     |── Chapter 19 Why AI Success in Retail Depends on Culture, Not Code
-    |──  Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final
+    |── Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final
     |── Chapter 21 Stuck in AI Pilot Purgatory
     └── Chapter 22 Running Faster Than The Market
 
