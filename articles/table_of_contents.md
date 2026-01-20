@@ -73,6 +73,12 @@ Most Retail AI Investment Is Wasted. Here's Why - Why AI Success in Retail Depen
 ### [Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md](Chapter%2020%20Why%20Most%20AI%20Projects%20Fail%20-%20And%20Why%20That's%20Actually%20Fine%20Final.md)
 Why Most AI Projects Fail (And Why That's Actually Fine. Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
 
+### [Chapter 21 Stuck in AI Pilot Purgatory.md](Chapter%2021%20Stuck%20in%20AI%20Pilot%20Purgatory.md)
+Why retail AI stalls before it reaches everyday operations. Retailers are experimenting with AI quickly, but those that benefit most are likely to be the ones that turn it from a personal helper into reliable, governed workflows.
+
+### [Chapter 22 Running Faster Than The Market.md](Chapter%2022%20Running%20Faster%20Than%20The%20Market.md)
+Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
