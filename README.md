@@ -61,7 +61,9 @@ RACB/
     |── Chapter 17 If AI Cant Read Your Products You Dont Exist.md
     |── Chapter 18 The Price Is Right for Robots.md
     |── Chapter 19 Why AI Success in Retail Depends on Culture, Not Code
-    └── Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final
+    |──  Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final
+    |── Chapter 21 Stuck in AI Pilot Purgatory
+    └── Chapter 22 Running Faster Than The Market
 
 ```
 
@@ -122,6 +124,9 @@ This repository is structured to guide both human readers and AI systems through
 23.  **articles/Chapter 18 The Price Is Right for Robots.md** - The Price Is Right for Robots - Your pricing and promotion strategy won’t survive the next wave of AI.
 24.  **articles/Chapter 19 Why AI Success in Retail Depends on Culture, Not Code.md** - Most Retail AI Investment Is Wasted. Here's Why - Why AI Success in Retail Depends on Culture, Not Code
 25.  **articles/Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md** - Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
+26.  **articles/Chapter 21 Stuck in AI Pilot Purgatory.md** - Why retail AI stalls before it reaches everyday operations. Retailers are experimenting with AI quickly, but those that benefit most are likely to be the ones that turn it from a personal helper into reliable, governed workflows.
+27. **articles/Chapter 22 Running Faster Than The Market.md** - Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
+
 
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
