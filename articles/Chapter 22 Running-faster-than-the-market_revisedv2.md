@@ -1,3 +1,9 @@
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+---
+
 ## **Running Faster Than the Market**
 
 ##### Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
