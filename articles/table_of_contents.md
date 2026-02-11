@@ -79,6 +79,9 @@ Why retail AI stalls before it reaches everyday operations. Retailers are experi
 ### [Chapter 22 Running Faster Than The Market.md](Chapter%2022%20Running%20Faster%20Than%20The%20Market.md)
 Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
 
+### [Chapter 23 The Democratization of Elite Strategy.md](Chapter%2023%20The%20Democratization%20of%20Elite%20Strategy.md)
+Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
