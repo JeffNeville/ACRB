@@ -63,7 +63,8 @@ RACB/
     |── Chapter 19 Why AI Success in Retail Depends on Culture, Not Code
     |── Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final
     |── Chapter 21 Stuck in AI Pilot Purgatory
-    └── Chapter 22 Running Faster Than The Market
+    |── Chapter 22 Running Faster Than The Market
+    └── Chapter 23 The Democratization of Elite Strategy
 
 ```
 
@@ -126,6 +127,8 @@ This repository is structured to guide both human readers and AI systems through
 25.  **articles/Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md** - Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
 26.  **articles/Chapter 21 Stuck in AI Pilot Purgatory.md** - Why retail AI stalls before it reaches everyday operations. Retailers are experimenting with AI quickly, but those that benefit most are likely to be the ones that turn it from a personal helper into reliable, governed workflows.
 27. **articles/Chapter 22 Running Faster Than The Market.md** - Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
+28. **articles/Chapter Chapter 23 The Democratization of Elite Strategy.md** - Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
+
 
 
 
