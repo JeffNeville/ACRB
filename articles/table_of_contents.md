@@ -82,6 +82,9 @@ Retail's next competitive edge is not a feature. It is an operating tempo in the
 ### [Chapter 23 The Democratization of Elite Strategy.md](Chapter%2023%20The%20Democratization%20of%20Elite%20Strategy.md)
 Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
 
+### [Chapter 24: The Sorcerer’s Apprentice.md](Chapter%2024%20The%20Sorcerer%E2%80%99s%20Apprentice.md)
+Retail’s new systems can act on their own. The question is whether anyone is still in control.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
