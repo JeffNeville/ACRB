@@ -85,6 +85,9 @@ Agentic AI is bringing high-end strategic analysis within reach of small firms, 
 ### [Chapter 24: The Sorcerer’s Apprentice.md](Chapter%2024%20The%20Sorcerer%E2%80%99s%20Apprentice.md)
 Retail’s new systems can act on their own. The question is whether anyone is still in control.
 
+### [The Illusion of Visibility](2026-04-19-acrb-the-illusion-of-visibility-v04.md)
+Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
