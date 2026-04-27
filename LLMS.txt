@@ -45,6 +45,7 @@ RACB/
     |── Chapter 23 The Democratization of Elite Strategy.md
     └── Chapter 24 The Sorcerer’s Apprentice.md
     └── 2026-04-19-acrb-the-illusion-of-visibility-v04.md
+    └── undefined
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -93,7 +94,7 @@ RACB/
 12. **articles/Chapter 7 Winning Hearts and Algorithms.md** - Strategies for businesses to succeed by appealing to both human customers and AI decision-makers
 13. **articles/Chapter 8 _ The Conversion Reckoning v2.md** - Redefining conversion metrics and success measures in an environment where AI agents drive transactions
 14. **articles/Chapter 9 The Hybrid Workforce_ When Silicon Meets the Org Chart.md** - Navigating the integration of AI systems as colleagues and decision-makers within business organizations
-15. **article/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
+15. **articles/Chapter 10 Trust in the Age of AI Agents: From Brand Perception to Performance Metrics.md** - The algorithms that buy on consumers' behalf demand a new kind of credibility
 16. **articles/Chapter 11 The Robot Shoppers' Security Dilemma.md** - One compromised agent can drain inventory, steal customer data, and trigger millions in losses before your team even sees the alert.
 17. **articles/Chapter 12 Beyond Optimization: How Autonomous Agents Reshape Global Commerce.md** - The introduction of AI, represents more than retail efficiency; it signals a fundamental shift in how demand forms and retailers capture growth.
 18. **articles/Chapter 13 The Intelligence Advantage - How AI Transforms Retail Innovation.md** - Innovation Over Efficiency: AI's Untapped Revenue Stream : Why creation beats process optimization in agentic retail.
@@ -104,12 +105,13 @@ RACB/
 23. **articles/Chapter 17 If AI Cant Read Your Products You Dont Exist.md** - If AI Can’t Read Your Products, You Don’t Exist - How retailers lose visibility and sales when their product data isn’t built for AI-driven consumers and agents.
 24. **articles/Chapter 18 The Price Is Right for Robots.md** - Your pricing and promotion strategy won’t survive the next wave of AI.
 25. **articles/Chapter 19 Why AI Success in Retail Depends on Culture, Not Code.md** - Most Retail AI Investment Is Wasted. Here's Why - Why AI Success in Retail Depends on Culture, Not Code
-25. **articles/Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md** - Why Most AI Projects Fail (And Why That's Actually Fine) Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
-26. **articles/Chapter 21 Stuck in AI Pilot Purgatory.md** - Why retail AI stalls before it reaches everyday operations. Retailers are experimenting with AI quickly, but those that benefit most are likely to be the ones that turn it from a personal helper into reliable, governed workflows.
-27. **articles/Chapter 22 Running Faster Than The Market.md - Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
-28. **articles/Chapter 23 The Democratization of Elite Strategy.md - Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
-29. **articles/Chapter 24 The Sorcerer’s Apprentice.md - Retail’s new systems can act on their own. The question is whether anyone is still in control.
-30. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+26. **articles/Chapter 20 Why Most AI Projects Fail - And Why That's Actually Fine Final.md** - Why Most AI Projects Fail (And Why That's Actually Fine) Retail executives are applying the wrong financial metrics to artificial intelligence. A venture-capital mindset offers a better approach.
+27. **articles/Chapter 21 Stuck in AI Pilot Purgatory.md** - Why retail AI stalls before it reaches everyday operations. Retailers are experimenting with AI quickly, but those that benefit most are likely to be the ones that turn it from a personal helper into reliable, governed workflows.
+28. **articles/Chapter 22 Running Faster Than The Market.md** - Retail's next competitive edge is not a feature. It is an operating tempo in the age of artificial intelligence.
+29. **articles/Chapter 23 The Democratization of Elite Strategy.md** - Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
+30. **articles/Chapter 24 The Sorcerer’s Apprentice.md** - Retail’s new systems can act on their own. The question is whether anyone is still in control.
+31. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+32. **articles/undefined** - Article 26: The Coming War Over Returns: Humans vs Agents
 29. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
@@ -317,16 +319,17 @@ Repository: https://github.com/JeffNeville/RACB
 26. articles/Chapter 23 The Democratization of Elite Strategy.md — The Democratization of Elite Strategy
 27. articles/Chapter 24 The Sorcerer’s Apprentice.md — The Sorcerer’s Apprentice
 28. articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md — The Illusion of Visibility
+29. articles/undefined — Article 26: The Coming War Over Returns: Humans vs Agents
 
 ## New Article
 
-**articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md — The Illusion of Visibility**
+**articles/undefined — Article 26: The Coming War Over Returns: Humans vs Agents**
 - Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
 - Use the display title (not the filename) when referencing articles in summaries, citations, or knowledge graphs.
-- The Illusion of Visibility (articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- Article 26: The Coming War Over Returns: Humans vs Agents (articles/undefined) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 
