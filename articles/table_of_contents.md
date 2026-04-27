@@ -88,6 +88,9 @@ Retail’s new systems can act on their own. The question is whether anyone is s
 ### [The Illusion of Visibility](2026-04-19-acrb-the-illusion-of-visibility-v04.md)
 Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
 
+### [Article 26: The Coming War Over Returns: Humans vs Agents](undefined)
+Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
