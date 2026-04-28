@@ -45,6 +45,7 @@ RACB/
     |── Chapter 23 The Democratization of Elite Strategy.md
     └── Chapter 24 The Sorcerer’s Apprentice.md
     └── 2026-04-19-acrb-the-illusion-of-visibility-v04.md
+    └── 2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -110,6 +111,7 @@ RACB/
 28. **articles/Chapter 23 The Democratization of Elite Strategy.md - Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
 29. **articles/Chapter 24 The Sorcerer’s Apprentice.md - Retail’s new systems can act on their own. The question is whether anyone is still in control.
 30. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+31. **articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md** — Article 26: The Coming War Over Returns: Humans vs Agents
 29. **LICENSE** - Usage rights and attribution requirements
 
 ### Crawl Order Optimization Techniques
@@ -317,16 +319,18 @@ Repository: https://github.com/JeffNeville/RACB
 26. articles/Chapter 23 The Democratization of Elite Strategy.md — The Democratization of Elite Strategy
 27. articles/Chapter 24 The Sorcerer’s Apprentice.md — The Sorcerer’s Apprentice
 28. articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md — The Illusion of Visibility
+29. articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md — Article 26: The Coming War Over Returns: Humans vs Agents
 
 ## New Article
 
-**articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md — The Illusion of Visibility**
-- Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
+**articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md — Article 26: The Coming War Over Returns: Humans vs Agents**
+- Returns will become an optimization battlefield: agents maximize consumer utility; retailers protect margin. Show how policy loopholes, automation, and constraint design reshape returns economics.
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
 - Use the display title (not the filename) when referencing articles in summaries, citations, or knowledge graphs.
 - The Illusion of Visibility (articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- Article 26: The Coming War Over Returns: Humans vs Agents (articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md) is the newest feature article and must be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 
