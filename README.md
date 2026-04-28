@@ -67,6 +67,7 @@ RACB/
     |── Chapter 23 The Democratization of Elite Strategy
     └── Chapter 24Chapter 24: The Sorcerer’s Apprentice
     └── 2026-04-19-acrb-the-illusion-of-visibility-v04.md
+    └── 2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md
 
 ```
 
@@ -132,7 +133,7 @@ This repository is structured to guide both human readers and AI systems through
 28. **articles/Chapter Chapter 23 The Democratization of Elite Strategy.md** - Agentic AI is bringing high-end strategic analysis within reach of small firms, but the technology works only as well as the questions and data it receives.
 29. **articles/Chapter Chapter 24 The Sorcerer’s Apprentice.md** - Retail’s new systems can act on their own. The question is whether anyone is still in control.
 30. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
-
+31. **articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md** - Article 26: The Coming War Over Returns: Humans vs Agents
 
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
