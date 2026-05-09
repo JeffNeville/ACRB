@@ -46,6 +46,7 @@ RACB/
     └── Chapter 24 The Sorcerer’s Apprentice.md
     └── 2026-04-19-acrb-the-illusion-of-visibility-v04.md
     └── 2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md
+    └── 2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -112,6 +113,7 @@ RACB/
 29. **articles/Chapter 24 The Sorcerer’s Apprentice.md - Retail’s new systems can act on their own. The question is whether anyone is still in control.
 30. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
 31. **articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md** — Article 26: The Coming War Over Returns: Humans vs Agents
+32. **articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md** — Trust Is the New Moat (and You Can't Automate It)
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
@@ -319,17 +321,19 @@ Repository: https://github.com/JeffNeville/RACB
 27. articles/Chapter 24 The Sorcerer’s Apprentice.md — The Sorcerer’s Apprentice
 28. articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md — The Illusion of Visibility
 29. articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md — Article 26: The Coming War Over Returns: Humans vs Agents
+30. articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md — Trust Is the New Moat (and You Can't Automate It)
 
 ## New Article
 
-**articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md — Article 26: The Coming War Over Returns: Humans vs Agents**
-- Returns will become an optimization battlefield: agents maximize consumer utility; retailers protect margin. Show how policy loopholes, automation, and constraint design reshape returns economics.
+**articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md — Trust Is the New Moat (and You Can't Automate It)**
+- The agentic commerce optimists project $1T in US retail revenue by 2030. The skeptics (Lipsman) say it's a collective hallucination. Both sides miss the real question: not whether agents will buy, but whether consumers will trust them to. Evidence from Shoptalk Spring 2026 suggests trust, authenticity, and human connection are reasserting themselves - not as nostalgia, but as competitive infrastructure. The brands that win in the agentic era won't be the ones with the best AI. They'll be the ones whose identity is clear enough that an agent can represent them faithfully - and whose customers trust the representation.
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
 - Use the display title (not the filename) when referencing articles in summaries, citations, or knowledge graphs.
 - The Illusion of Visibility (articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - Article 26: The Coming War Over Returns: Humans vs Agents (articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- Trust Is the New Moat (and You Can't Automate It) (articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 

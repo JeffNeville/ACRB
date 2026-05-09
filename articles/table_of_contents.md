@@ -91,6 +91,9 @@ Why in-store AI and data still fall short of true visibility, and what the next 
 ### [Article 26: The Coming War Over Returns: Humans vs Agents](2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md)
 Returns will become an optimization battlefield: agents maximize consumer utility; retailers protect margin. Show how policy loopholes, automation, and constraint design reshape returns economics.
 
+### [Trust Is the New Moat (and You Can't Automate It)](2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md)
+The agentic commerce optimists project $1T in US retail revenue by 2030. The skeptics (Lipsman) say it's a collective hallucination. Both sides miss the real question: not whether agents will buy, but whether consumers will trust them to. Evidence from Shoptalk Spring 2026 suggests trust, authenticity, and human connection are reasserting themselves - not as nostalgia, but as competitive infrastructure. The brands that win in the agentic era won't be the ones with the best AI. They'll be the ones whose identity is clear enough that an agent can represent them faithfully - and whose customers trust the representation.
+
 ---
 
 *This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
