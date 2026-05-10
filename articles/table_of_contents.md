@@ -91,6 +91,17 @@ Why in-store AI and data still fall short of true visibility, and what the next 
 ### [Article 26: The Coming War Over Returns: Humans vs Agents](2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md)
 Returns will become an optimization battlefield: agents maximize consumer utility; retailers protect margin. Show how policy loopholes, automation, and constraint design reshape returns economics.
 
+### [Article 27: What might an agent Superteam look like](2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md)
+As retailers move from AI tools to autonomous agents, the central challenge shifts from deployment to team design. Drawing on the “superteam” idea, this article argues that the AI-native retailer will need to build human-agent teams with clear roles, feedback loops, escalation norms, learning behaviors, and executive ownership. The article extends prior ACRB thinking on the AI-native retailer by asking whether agents must be designed not only to perform tasks, but to behave as productive members of teams.
+
+The key driver of this article is "How to Build a Superteam That Keeps Getting Better" (HBR, May 2026) and how this research can be applied to Agentic teams. https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better
+
+Working titleThe Agentic Superteam
+Refined conceptAs retailers move from AI tools to autonomous agents, the central challenge shifts from deployment to team design. Drawing on the “superteam” idea, this article argues that the AI-native retailer will need to build human-agent teams with clear roles, feedback loops, escalation norms, learning behaviors, and executive ownership. The article extends prior ACRB thinking on the AI-native retailer by asking whether agents must be designed not only to perform tasks, but to behave as productive members of teams.
+Core CEO questionWhat happens when the basic unit of retail work is no longer the department, the role, or the workflow, but a mixed team of humans and AI agents pursuing a commercial outcome?
+Recommended article directionThe strongest direction is to frame this as the logical organizational sequel to “The AI-Native Retailer.” If the AI-native retailer is the new operating model, the agentic superteam is the new unit of work.
+Working thesisRetailers have spent the first phase of AI adoption asking what agents can do. The next phase will ask how agents work with other
+
 ### [Trust Is the New Moat (and You Can't Automate It)](2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md)
 The agentic commerce optimists project $1T in US retail revenue by 2030. The skeptics (Lipsman) say it's a collective hallucination. Both sides miss the real question: not whether agents will buy, but whether consumers will trust them to. Evidence from Shoptalk Spring 2026 suggests trust, authenticity, and human connection are reasserting themselves - not as nostalgia, but as competitive infrastructure. The brands that win in the agentic era won't be the ones with the best AI. They'll be the ones whose identity is clear enough that an agent can represent them faithfully - and whose customers trust the representation.
 
