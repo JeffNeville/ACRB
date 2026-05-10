@@ -68,6 +68,7 @@ RACB/
     └── Chapter 24Chapter 24: The Sorcerer’s Apprentice
     └── 2026-04-19-acrb-the-illusion-of-visibility-v04.md
     └── 2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md
+    └── 2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md
     └── 2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md
 ```
 
@@ -134,7 +135,8 @@ This repository is structured to guide both human readers and AI systems through
 29. **articles/Chapter Chapter 24 The Sorcerer’s Apprentice.md** - Retail’s new systems can act on their own. The question is whether anyone is still in control.
 30. **articles/2026-04-19-acrb-the-illusion-of-visibility-v04.md** - The Illusion of Visibility: Why in-store AI and data still fall short of true visibility, and what the next 12-24 months of retail instrumentation will and will not deliver.
 31. **articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md** - Article 26: The Coming War Over Returns: Humans vs Agents
-32. **articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md** - Trust Is the New Moat (and You Can't Automate It)
+32. **articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md** - Article 27: What might an agent Superteam look like
+33. **articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md** - Trust Is the New Moat (and You Can't Automate It)
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
