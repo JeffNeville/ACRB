@@ -48,6 +48,7 @@ RACB/
     └── 2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md
     └── 2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md
     └── 2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md
+    └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -116,6 +117,7 @@ RACB/
 31. **articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md** — Article 26: The Coming War Over Returns: Humans vs Agents
 32. **articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md** — Article 27: What might an agent Superteam look like
 33. **articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md** — Trust Is the New Moat (and You Can't Automate It)
+34. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md** — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
@@ -325,19 +327,12 @@ Repository: https://github.com/JeffNeville/RACB
 29. articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md — Article 26: The Coming War Over Returns: Humans vs Agents
 30. articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md — Article 27: What might an agent Superteam look like
 31. articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md — Trust Is the New Moat (and You Can't Automate It)
+32. articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 
 ## New Article
 
-**articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md — Article 27: What might an agent Superteam look like**
-- As retailers move from AI tools to autonomous agents, the central challenge shifts from deployment to team design. Drawing on the “superteam” idea, this article argues that the AI-native retailer will need to build human-agent teams with clear roles, feedback loops, escalation norms, learning behaviors, and executive ownership. The article extends prior ACRB thinking on the AI-native retailer by asking whether agents must be designed not only to perform tasks, but to behave as productive members of teams.
-
-The key driver of this article is "How to Build a Superteam That Keeps Getting Better" (HBR, May 2026) and how this research can be applied to Agentic teams. https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better
-
-Working titleThe Agentic Superteam
-Refined conceptAs retailers move from AI tools to autonomous agents, the central challenge shifts from deployment to team design. Drawing on the “superteam” idea, this article argues that the AI-native retailer will need to build human-agent teams with clear roles, feedback loops, escalation norms, learning behaviors, and executive ownership. The article extends prior ACRB thinking on the AI-native retailer by asking whether agents must be designed not only to perform tasks, but to behave as productive members of teams.
-Core CEO questionWhat happens when the basic unit of retail work is no longer the department, the role, or the workflow, but a mixed team of humans and AI agents pursuing a commercial outcome?
-Recommended article directionThe strongest direction is to frame this as the logical organizational sequel to “The AI-Native Retailer.” If the AI-native retailer is the new operating model, the agentic superteam is the new unit of work.
-Working thesisRetailers have spent the first phase of AI adoption asking what agents can do. The next phase will ask how agents work with other
+**articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction**
+- Merge the Gartner agentic AI hype-cycle framing with McKinsey’s AI-at-scale operating discipline into a CEO-facing ACRB article idea. The central question: how should a retail CEO communicate a credible agentic AI approach to the board, then turn that commitment into measurable organizational traction without getting trapped in hype, pilot purgatory, or vendor “agent washing”? The article should argue that CEOs need a practical operating framework, not a technology manifesto. Agentic AI is not one thing; it is a portfolio of agent capabilities maturing at different speeds. Retail leaders should separate near-term deployable agent patterns from longer-term autonomy claims, then sequence investments against clean data, sound processes, clear value pools, and strong governance. The retail CEO’s board narrative should explain three things: where agentic AI can strengthen proprietary advantage, where it can lower the marginal cost of commoditized work, and how governance guardrails let the organization move faster rather than slower. A useful framework could combine Jeffrey’s agent taxonomy with component-based business model logic. Classify agent opportunities by type: Deep Reasoners for context-heavy analysis, Content Workers for repeatable language/image work, Swarms for high-volume parallel execution, and Guardian Agents for exceptions, outliers, and skeptical oversight. Then classify deployment domains by strategic value and process uniqueness: invest to achieve superiority where the capability is distinctive and value-creating; industrialize or outsource where the work is standard and low-differentiation. The article should help retail CEOs answer the board-level question: “What are we doing with agentic AI, where will value show up, what risks are controlled, and how will we know whether the organization is actually making progress?”
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
@@ -346,6 +341,7 @@ Working thesisRetailers have spent the first phase of AI adoption asking what ag
 - Article 26: The Coming War Over Returns: Humans vs Agents (articles/2026-04-27-acrb-article-26-the-coming-war-over-returns-humans-vs-agents-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - Article 27: What might an agent Superteam look like (articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - Trust Is the New Moat (and You Can't Automate It) (articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction (articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 
