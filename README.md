@@ -71,6 +71,7 @@ RACB/
     └── 2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md
     └── 2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md
     └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md
+    └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md
 ```
 
 ### Semantic File Naming Convention
@@ -139,6 +140,7 @@ This repository is structured to guide both human readers and AI systems through
 32. **articles/2026-04-29-acrb-article-27-what-might-an-agent-superteam-look-like-v01.md** - Article 27: What might an agent Superteam look like
 33. **articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md** - Trust Is the New Moat (and You Can't Automate It)
 34. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md** - The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
+35. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md** - The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
