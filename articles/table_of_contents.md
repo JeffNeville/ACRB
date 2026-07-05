@@ -155,3 +155,22 @@ The practical heart of the piece should be how CEOs embed AI exposure into the o
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+### [The Five-Layer Retail AI Stack: From SKU Data to Store Labor](2026-07-05-acrb-the-five-layer-retail-ai-stack-from-sku-data-to-store-labor-v01.md)
+Explore the five-layer concept as a recurring ACRB theme for how retail CEOs should think about practical AI adoption. The idea is that AI value in retail does not arrive as a single model, chatbot, or agent. It compounds through a layered operating stack: data foundation, enrichment/intelligence, workflow integration, agentic decision support, and closed-loop operating cadence. The article should make this concrete through two retail use cases: SKU data enrichment and store labor scheduling.
+
+For SKU data enrichment, the piece can show how retailers move from poor product records and fragmented vendor inputs to a richer product knowledge layer that supports search, merchandising, recommendations, marketplace listing quality, compliance, and agentic commerce interfaces. The CEO-level point is that SKU data is no longer back-office hygiene. It becomes commercial infrastructure.
+
+For store labor scheduling, the piece can show the same five-layer logic applied to labor demand signals, traffic, task load, local events, weather, promotions, employee constraints, scheduling decisions, and feedback loops. The argument should avoid generic AI hype and focus on where operating teams actually change behavior: better inputs, clearer recommendations, human override rules, performance measurement, and recurring management cadence.
+
+Potential thesis: Retail CEOs should stop asking whether they have an AI use case and start asking whether each operating domain has the five layers required for AI to become useful: trusted data, enriched context, embedded workflow, decision rights, and learning loops. SKU enrichment and labor scheduling are good examples because one is data-heavy and digital, while the other is physical, human, and operational. Together they make the concept tangible.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
+
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
