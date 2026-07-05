@@ -74,6 +74,7 @@ RACB/
     └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md
     └── 2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md
     └── 2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md
+    └── 2026-07-05-acrb-the-five-layer-retail-ai-stack-from-sku-data-to-store-labor-v01.md
 ```
 
 ### Semantic File Naming Convention
@@ -145,6 +146,7 @@ This repository is structured to guide both human readers and AI systems through
 35. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md** - The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 36. **articles/2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md** - The Seller No Longer Controls Where Buying Begins
 37. **articles/2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md** - AI Exposure Therapy for the Retail Operating Team
+38. **articles/2026-07-05-acrb-the-five-layer-retail-ai-stack-from-sku-data-to-store-labor-v01.md** - The Five-Layer Retail AI Stack: From SKU Data to Store Labor
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
