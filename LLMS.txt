@@ -51,6 +51,7 @@ RACB/
     └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md
     └── 2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md
     └── 2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md
+    └── 2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -122,6 +123,7 @@ RACB/
 34. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md** — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 35. **articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md** — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 36. **articles/2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md** — The Seller No Longer Controls Where Buying Begins
+37. **articles/2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md** — AI Exposure Therapy for the Retail Operating Team
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
@@ -334,25 +336,18 @@ Repository: https://github.com/JeffNeville/RACB
 32. articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v01.md — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 33. articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md — The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction
 34. articles/2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md — The Seller No Longer Controls Where Buying Begins
+35. articles/2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md — AI Exposure Therapy for the Retail Operating Team
 
 ## New Article
 
-**articles/2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md — The Seller No Longer Controls Where Buying Begins**
-- Stripe spent its 2026 Sessions conference announcing a stack of agent commerce infrastructure, and the consensus reading is already locked in: agents can now spend money. That reading is accurate, legible, and incomplete. The stranger thing, and the more important one, is that Stripe is preparing for a version of the internet in which the seller no longer controls the place where buying begins.
+**articles/2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md — AI Exposure Therapy for the Retail Operating Team**
+- Retailers have increasingly given employees access to AI tools, but access has not translated into broad operating adoption. Usage often remains concentrated among technical teams, innovation groups, digital specialists, and a few self-motivated operators. The deeper barrier is not tool availability; it is behavioral avoidance. Many merchants, planners, marketers, store operators, supply-chain leaders, finance teams, and HR leaders are unsure how to use AI inside real business decisions, worry about looking uninformed, distrust AI outputs, fear compliance or accuracy risks, or see AI as something owned by the technical organization.
 
-Every funnel on the internet has been an institutional arrangement for making human intent observable inside a space the seller controlled. Agents break that arrangement. The decision now begins wherever the buyer already is — inside ChatGPT or Gemini, inside a coding agent, inside a procurement workflow, inside the buyer's own context and memory. By the time the seller sees anything, the choice is mostly made. For the first time in two decades, power in the internet economy is moving from sellers to buyers. The infrastructure Stripe announced this week is what makes that movement operational.
+This article should argue that retail CEOs need to treat AI adoption less as a training rollout and more as a habit-formation and exposure problem. Borrowing lightly from the concept of exposure therapy, operating teams need repeated, low-risk, business-relevant exposure to AI inside the normal cadence of the company until use becomes ordinary. The goal is not to turn every operator into an AI expert. The goal is to make AI a normal participant in how the business prepares, decides, reviews, and learns.
 
-The old internet asked: how do we bring customers into our store? The next internet asks a more interesting question: how do we become usable by the customer's agent when the customer never comes to the store at all?
+A possible literary hook is Stephen Covey and The 7 Habits of Highly Effective People. Use Covey sparingly, not as the main frame. The useful bridge is that effectiveness is built through habits, not intentions. For retail AI, the issue is that companies may have knowledge of AI and access to tools, but have not yet created the skill, desire, and repeated behavior required for AI to become part of management muscle memory. The article should avoid sounding like a business-book riff. Covey should open the door, then the article should move quickly into the retail operating argument.
 
-This briefing covers:
-
-Why instant checkout was the wrong target. What Walmart's failed ChatGPT experiment proves about where transactions actually want to live — and why the answer is not 'inside the chat.'
-
-Payment authority traveling with the task. How Link's wallet for agents relocates the moment of commercial decision out of the seller's flow — and why cards and stablecoins both matter for the world that's coming.
-
-Fraud as the binding constraint. Why token theft is becoming the defining economic risk of AI distribution, and why this is no longer a Stripe-only story — Microsoft, Meta, Visa, Mastercard, and PayPal are all running at the same archite
-
-[Trimmed]
+The practical heart of the piece should be how CEOs embed AI exposure into the operating cadence of the business. Examples to explore incl
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
@@ -363,6 +358,7 @@ Fraud as the binding constraint. Why token theft is becoming the defining econom
 - Trust Is the New Moat (and You Can't Automate It) (articles/2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction (articles/2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - The Seller No Longer Controls Where Buying Begins (articles/2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- AI Exposure Therapy for the Retail Operating Team (articles/2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 
