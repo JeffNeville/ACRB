@@ -134,3 +134,24 @@ Fraud as the binding constraint. Why token theft is becoming the defining econom
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+### [AI Exposure Therapy for the Retail Operating Team](2026-07-05-acrb-ai-exposure-therapy-for-the-retail-operating-team-v01.md)
+Retailers have increasingly given employees access to AI tools, but access has not translated into broad operating adoption. Usage often remains concentrated among technical teams, innovation groups, digital specialists, and a few self-motivated operators. The deeper barrier is not tool availability; it is behavioral avoidance. Many merchants, planners, marketers, store operators, supply-chain leaders, finance teams, and HR leaders are unsure how to use AI inside real business decisions, worry about looking uninformed, distrust AI outputs, fear compliance or accuracy risks, or see AI as something owned by the technical organization.
+
+This article should argue that retail CEOs need to treat AI adoption less as a training rollout and more as a habit-formation and exposure problem. Borrowing lightly from the concept of exposure therapy, operating teams need repeated, low-risk, business-relevant exposure to AI inside the normal cadence of the company until use becomes ordinary. The goal is not to turn every operator into an AI expert. The goal is to make AI a normal participant in how the business prepares, decides, reviews, and learns.
+
+A possible literary hook is Stephen Covey and The 7 Habits of Highly Effective People. Use Covey sparingly, not as the main frame. The useful bridge is that effectiveness is built through habits, not intentions. For retail AI, the issue is that companies may have knowledge of AI and access to tools, but have not yet created the skill, desire, and repeated behavior required for AI to become part of management muscle memory. The article should avoid sounding like a business-book riff. Covey should open the door, then the article should move quickly into the retail operating argument.
+
+The practical heart of the piece should be how CEOs embed AI exposure into the operating cadence of the business. Examples to explore incl
+
+[Trimmed]
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
+
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
