@@ -77,6 +77,7 @@ RACB/
     └── 2026-07-05-acrb-the-five-layer-retail-ai-stack-from-sku-data-to-store-labor-v01.md
     └── 2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md
     └── 2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md
+    └── 2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md
 ```
 
 ### Semantic File Naming Convention
@@ -151,6 +152,7 @@ This repository is structured to guide both human readers and AI systems through
 38. **articles/2026-07-05-acrb-the-five-layer-retail-ai-stack-from-sku-data-to-store-labor-v01.md** - The Five-Layer Retail AI Stack: From SKU Data to Store Labor
 39. **articles/2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md** - The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox
 40. **articles/2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md** - The Conway Trap: Do Not Automate Yesterday's Customer Experience
+41. **articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md** - The Feedback Loop Is the Brand: The New Moat in AI-Native Retail
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
