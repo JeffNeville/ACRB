@@ -174,3 +174,17 @@ Potential thesis: Retail CEOs should stop asking whether they have an AI use cas
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+### [The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox](2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md)
+Retail spent two decades celebrating the infinite shelf. AI shopping agents are about to make it functionally finite again. Agents can search billions of products and understand highly specific intent, expanding long-tail discovery across the market. But for each shopper they compress that universe into a tiny, personalized consideration set. The market widens while the moment of choice narrows. The strategic contest shifts from traffic and ranking to agentic consideration share: how often a brand earns a place on the agent's short list for a valuable customer need.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
+
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
