@@ -188,3 +188,15 @@ Retail spent two decades celebrating the infinite shelf. AI shopping agents are 
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
 
+### [The Conway Trap: Do Not Automate Yesterday's Customer Experience](2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md)
+AI transformation will fail when retailers use agents to automate departments rather than redesign the customer experience. Conway's Law means the machine organization will mirror the human organization unless the CEO intervenes. The customer is the ultimate judge, and that customer is changing rapidly as AI reshapes discovery, comparison, service, and purchase behavior. Retailers risk automating yesterday's operating model just as AI creates tomorrow's customer. The CEO's job is therefore not to deploy the most agents, but to design an agentic operating model around the coherent customer and commercial outcomes the company must deliver next.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
+
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
