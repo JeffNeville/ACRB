@@ -200,3 +200,16 @@ AI transformation will fail when retailers use agents to automate departments ra
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+### [The Feedback Loop Is the Brand: The New Moat in AI-Native Retail](2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md)
+As foundation models and standard AI tools become broadly available, intelligence alone will not differentiate a retail brand. The durable advantage is vertical learning: controlling the closed loop through which customer intent becomes product and operating decisions, those decisions become real-world outcomes, and the outcomes improve the next decision. A retailer may rent much of the stack, but it cannot outsource signal custody, decision custody, outcome memory, Curiosity Capacity, or Learning Economics. The winning AI-native retailer reduces learning latency while preserving human judgment and directs expensive intelligence toward the decisions where it creates the most customer and commercial value. In the AI era, the storefront is an interface and the model is a utility. The feedback loop is the brand.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
+
+**Author:** Jeffrey Neville  
+**Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
