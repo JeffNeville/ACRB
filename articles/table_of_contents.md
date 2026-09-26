@@ -212,4 +212,13 @@ As foundation models and standard AI tools become broadly available, intelligenc
 
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
-**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+**LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)
+
+### [How four trends are reshaping consumer behavior | McKinsey](2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md)
+McKinsey State of the Consumer 2026 report identifies four trends reshaping the sector: a tech-driven path to purchase (agentic commerce, Generative Engine Optimization), a health revolution (GLP-1s, wearables, holistic wellness), the experience economy, and the rise of the resourceful consumer.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---

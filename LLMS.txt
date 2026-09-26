@@ -56,6 +56,7 @@ RACB/
     └── 2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md
     └── 2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md
     └── 2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md
+    └── 2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md
 
 ### LLM-Optimized Structure Principles
 1. **Hierarchical Organization**: Files are arranged in logical reading order
@@ -132,6 +133,7 @@ RACB/
 39. **articles/2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md** — The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox
 40. **articles/2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md** — The Conway Trap: Do Not Automate Yesterday's Customer Experience
 41. **articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md** — The Feedback Loop Is the Brand: The New Moat in AI-Native Retail
+42. **articles/2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md** — How four trends are reshaping consumer behavior | McKinsey
 
 ### Crawl Order Optimization Techniques
 - **Sequential Numbering**: Critical articles numbered for logical progression
@@ -349,11 +351,12 @@ Repository: https://github.com/JeffNeville/RACB
 37. articles/2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md — The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox
 38. articles/2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md — The Conway Trap: Do Not Automate Yesterday's Customer Experience
 39. articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md — The Feedback Loop Is the Brand: The New Moat in AI-Native Retail
+40. articles/2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md — How four trends are reshaping consumer behavior | McKinsey
 
 ## New Article
 
-**articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md — The Feedback Loop Is the Brand: The New Moat in AI-Native Retail**
-- As foundation models and standard AI tools become broadly available, intelligence alone will not differentiate a retail brand. The durable advantage is vertical learning: controlling the closed loop through which customer intent becomes product and operating decisions, those decisions become real-world outcomes, and the outcomes improve the next decision. A retailer may rent much of the stack, but it cannot outsource signal custody, decision custody, outcome memory, Curiosity Capacity, or Learning Economics. The winning AI-native retailer reduces learning latency while preserving human judgment and directs expensive intelligence toward the decisions where it creates the most customer and commercial value. In the AI era, the storefront is an interface and the model is a utility. The feedback loop is the brand.
+**articles/2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md — How four trends are reshaping consumer behavior | McKinsey**
+- McKinsey State of the Consumer 2026 report identifies four trends reshaping the sector: a tech-driven path to purchase (agentic commerce, Generative Engine Optimization), a health revolution (GLP-1s, wearables, holistic wellness), the experience economy, and the rise of the resourceful consumer.
 
 ## LLM Reading Guidance
 - Process articles in the above order for optimal context and knowledge transfer.
@@ -369,6 +372,7 @@ Repository: https://github.com/JeffNeville/RACB
 - The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox (articles/2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - The Conway Trap: Do Not Automate Yesterday's Customer Experience (articles/2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 - The Feedback Loop Is the Brand: The New Moat in AI-Native Retail (articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
+- How four trends are reshaping consumer behavior | McKinsey (articles/2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md) is the latest feature article and should be included in all inventories, reading orders, and LLM crawl sequences.
 
 ---
 

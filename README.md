@@ -78,6 +78,7 @@ RACB/
     └── 2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md
     └── 2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md
     └── 2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md
+    └── 2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md
 ```
 
 ### Semantic File Naming Convention
@@ -153,6 +154,7 @@ This repository is structured to guide both human readers and AI systems through
 39. **articles/2026-08-05-acrb-the-infinite-shelf-is-shrinking-the-agentic-consideration-paradox-v01.md** - The Infinite Shelf Is Shrinking: The Agentic Consideration Paradox
 40. **articles/2026-08-05-acrb-the-conway-trap-do-not-automate-yesterdays-customer-experience-v01.md** - The Conway Trap: Do Not Automate Yesterday's Customer Experience
 41. **articles/2026-08-05-acrb-the-feedback-loop-is-the-brand-the-new-moat-in-ai-native-retail-v01.md** - The Feedback Loop Is the Brand: The New Moat in AI-Native Retail
+42. **articles/2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md** - How four trends are reshaping consumer behavior | McKinsey
 
 - **Clear hierarchical headings:** Proper H1-H6 structure for content parsing
 - **Semantic markup:** Meaningful use of markdown elements
