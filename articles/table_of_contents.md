@@ -102,27 +102,6 @@ Core CEO questionWhat happens when the basic unit of retail work is no longer th
 Recommended article directionThe strongest direction is to frame this as the logical organizational sequel to “The AI-Native Retailer.” If the AI-native retailer is the new operating model, the agentic superteam is the new unit of work.
 Working thesisRetailers have spent the first phase of AI adoption asking what agents can do. The next phase will ask how agents work with other
 
-### [Trust Is the New Moat (and You Can't Automate It)](2026-05-09-acrb-trust-is-the-new-moat-and-you-cant-automate-it-v01.md)
-The agentic commerce optimists project $1T in US retail revenue by 2030. The skeptics (Lipsman) say it's a collective hallucination. Both sides miss the real question: not whether agents will buy, but whether consumers will trust them to. Evidence from Shoptalk Spring 2026 suggests trust, authenticity, and human connection are reasserting themselves - not as nostalgia, but as competitive infrastructure. The brands that win in the agentic era won't be the ones with the best AI. They'll be the ones whose identity is clear enough that an agent can represent them faithfully - and whose customers trust the representation.
-
-### [The CEO’s Agentic AI Commitment: From Board Promise to Operating Traction](2026-05-30-acrb-the-ceos-agentic-ai-commitment-from-board-promise-to-operating-traction-v02.md)
-Merge the Gartner agentic AI hype-cycle framing with McKinsey’s AI-at-scale operating discipline into a CEO-facing ACRB article idea. The central question: how should a retail CEO communicate a credible agentic AI approach to the board, then turn that commitment into measurable organizational traction without getting trapped in hype, pilot purgatory, or vendor “agent washing”? The article should argue that CEOs need a practical operating framework, not a technology manifesto. Agentic AI is not one thing; it is a portfolio of agent capabilities maturing at different speeds. Retail leaders should separate near-term deployable agent patterns from longer-term autonomy claims, then sequence investments against clean data, sound processes, clear value pools, and strong governance. The retail CEO’s board narrative should explain three things: where agentic AI can strengthen proprietary advantage, where it can lower the marginal cost of commoditized work, and how governance guardrails let the organization move faster rather than slower. A useful framework could combine Jeffrey’s agent taxonomy with component-based business model logic. Classify agent opportunities by type: Deep Reasoners for context-heavy analysis, Content Workers for repeatable language/image work, Swarms for high-volume parallel execution, and Guardian Agents for exceptions, outliers, and skeptical oversight. Then classify deployment domains by strategic value and process uniqueness: invest to achieve superiority where the capability is distinctive and value-creating; industrialize or outsource where the work is standard and low-differentiation. The article should help retail CEOs answer the board-level question: “What are we doing with agentic AI, where will value show up, what risks are controlled, and how will we know whether the organization is actually making progress?”
-
-### [The Seller No Longer Controls Where Buying Begins](2026-05-19-acrb-the-seller-no-longer-controls-where-buying-begins-v01.md)
-Stripe spent its 2026 Sessions conference announcing a stack of agent commerce infrastructure, and the consensus reading is already locked in: agents can now spend money. That reading is accurate, legible, and incomplete. The stranger thing, and the more important one, is that Stripe is preparing for a version of the internet in which the seller no longer controls the place where buying begins.
-
-Every funnel on the internet has been an institutional arrangement for making human intent observable inside a space the seller controlled. Agents break that arrangement. The decision now begins wherever the buyer already is — inside ChatGPT or Gemini, inside a coding agent, inside a procurement workflow, inside the buyer's own context and memory. By the time the seller sees anything, the choice is mostly made. For the first time in two decades, power in the internet economy is moving from sellers to buyers. The infrastructure Stripe announced this week is what makes that movement operational.
-
-The old internet asked: how do we bring customers into our store? The next internet asks a more interesting question: how do we become usable by the customer's agent when the customer never comes to the store at all?
-
-This briefing covers:
-
-Why instant checkout was the wrong target. What Walmart's failed ChatGPT experiment proves about where transactions actually want to live — and why the answer is not 'inside the chat.'
-
-Payment authority traveling with the task. How Link's wallet for agents relocates the moment of commercial decision out of the seller's flow — and why cards and stablecoins both matter for the world that's coming.
-
-Fraud as the binding constraint. Why token theft is becoming the defining economic risk of AI distribution, and why this is no longer a Stripe-only story — Microsoft, Meta, Visa, Mastercard, and PayPal are all running at the same archite
-
 [Trimmed]
 
 ---
@@ -213,3 +192,12 @@ As foundation models and standard AI tools become broadly available, intelligenc
 **Author:** Jeffrey Neville  
 **Email:** [Jeff@roseandthomas.com](mailto:Jeff@roseandthomas.com)  
 **LinkedIn:** [https://www.linkedin.com/in/jefneville/](https://www.linkedin.com/in/jefneville/)  
+
+### [How four trends are reshaping consumer behavior | McKinsey](2026-09-26-acrb-how-four-trends-are-reshaping-consumer-behavior-mckinsey-v01.md)
+McKinsey State of the Consumer 2026 report identifies four trends reshaping the sector: a tech-driven path to purchase (agentic commerce, Generative Engine Optimization), a health revolution (GLP-1s, wearables, holistic wellness), the experience economy, and the rise of the resourceful consumer.
+
+---
+
+*This brief provides essential insights for retailers, technologists, and business leaders preparing for the agentic commerce revolution.*
+
+---
