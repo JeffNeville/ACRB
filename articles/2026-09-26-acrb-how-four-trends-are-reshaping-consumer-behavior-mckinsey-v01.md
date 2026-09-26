@@ -1,0 +1,111 @@
+---
+title: How four trends are reshaping consumer behavior | McKinsey
+slug: how-four-trends-are-reshaping-consumer-behavior-mckinsey
+status: Approved
+author: Rose & Thomas
+audience: Global Retail Industry CEO
+publish_channel: Substack
+article_type: Feature Article
+version: v01
+date_created: 2026-09-26
+date_approved: 2026-09-26
+source_validation_status: Complete
+source_packet_reference: https://docs.google.com/document/d/14WrZi3zx3bk2TMS_y5T4BiBBUZUowXGVbBBnT9ijr7A/edit?usp=drivesdk
+notion_url: https://app.notion.com/p/How-four-trends-are-reshaping-consumer-behavior-McKinsey-3e74152db987819cb3e4e66185a74518
+---
+
+> “The map is not the territory.”
+> — Alfred Korzybski, *Science and Sanity*
+
+Retail is changing first in its plumbing.
+
+The strongest evidence does not show consumers handing shopping over to autonomous agents. It does show four pressures converging on retail at once: AI-mediated discovery, health-linked demand shifts, a renewed appetite for experiences, and a more calculating consumer. The firms that move fastest may not be the ones with the boldest AI story, but the ones that use AI to attack the cheapest, most reversible parts of each problem first.
+
+## The new problem is not demand alone
+
+Retail has spent the past few years lurching from one supposed revolution to the next. Social commerce was going to rewrite the store. The metaverse was going to replace it. Now the fashionable claim is that "agentic commerce" will let software do the shopping. It is a neat story, and for now mostly too neat.
+
+The evidence points to something less cinematic and more awkward. Consumers are beginning to use generative AI in shopping, but mainly to search, compare, and refine choices rather than to delegate the whole purchase, according to [McKinsey's *The State of the Consumer 2025: When disruption becomes permanent*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-the-consumer-2025-when-disruption-becomes-permanent). Traffic from AI tools to retail sites is rising sharply, but from a small base, according to [Adobe's holiday-season analysis of AI shopping traffic](https://news.adobe.com/news/news-details/2025/AI-shopping-traffic-surges-1200-during-holiday-season/default.aspx). At the same time, other forces are reshaping what consumers want and how they spend: GLP-1 drugs are changing grocery baskets, discretionary spending has tilted toward travel and live experiences in many markets, and shoppers remain stubbornly value-conscious, often delaying replacement and using resale or off-price channels, as reflected in [Cornell's summary of the Numerator GLP-1 study](https://news.cornell.edu/stories/2024/07/ozempic-users-spend-less-groceries-study-finds), [Mastercard Economics Institute's *Travel Trends 2025*](https://www.mastercardservices.com/en/advisors/economics-institute/insights/travel-trends-2025), [Deloitte's *2024 Global Retail Outlook*](https://www2.deloitte.com/us/en/insights/industry/retail-distribution/retail-industry-outlook.html), and [thredUP's *2024 Resale Report*](https://www.thredup.com/resale).
+
+The result is not one grand disruption but four overlapping ones. They do not affect every category equally, and they are not equally mature. Yet together they create a common operating problem. Older retail models assumed that demand was discovered in familiar places, that product information was chiefly for humans, that category demand changed gradually, and that value-seeking was cyclical. Those assumptions are weakening.
+
+The immediate threat is not that machines will replace merchants. It is that retailers built for storefront traffic and campaign-led marketing may become harder for both people and machines to find, interpret, and trust. On the available evidence, each of the four trends below has a cheap, fast, AI-enabled first move and a slower, more expensive one. The sequencing matters more than whichever trend gets the most airtime this year.
+
+## AI enters the shopping journey through the side door
+
+The strongest evidence for AI in retail sits at the top of the funnel. McKinsey reports that 27% of surveyed consumers said they had used generative AI for shopping-related activities in the previous six months, rising to 39% among Gen Z respondents, in [*The State of the Consumer 2025*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-the-consumer-2025-when-disruption-becomes-permanent). Those are self-reported figures, so they are best read as directional rather than definitive. Adobe's data are more behavioral: during the 2024 holiday season, traffic from generative AI sources to U.S. retail sites surged, and those visitors showed higher engagement, though conversion performance was mixed, according to [Adobe](https://news.adobe.com/news/news-details/2025/AI-shopping-traffic-surges-1200-during-holiday-season/default.aspx).
+
+That pattern matters because discovery is where margins begin to erode. If a shopper asks an AI tool for "a work bag under $300 that looks premium and fits a laptop," the retailer is no longer competing only on shelf position or paid search. It is competing to be legible to a machine that translates vague human intent into product attributes. In categories such as apparel, beauty, and home, where purchases often begin with fuzzy requirements rather than exact SKUs, that translation layer may become commercially important. The technical point about structured product attributes is supported by [Google Search Central's product structured data documentation](https://developers.google.com/search/docs/appearance/structured-data/product), while the category-level commercial implication remains an analytical inference rather than a directly sourced market finding.
+
+This is where much of the current rhetoric goes astray. The practical issue is not whether autonomous agents will soon complete every transaction. Public evidence for scaled, routine, end-to-end delegated purchasing remains thin. [Amazon's Rufus announcement](https://www.aboutamazon.com/news/retail/amazon-rufus-ai-shopping-assistant) and [Google Shopping AI feature announcements](https://blog.google/products/shopping/) are better read as examples of capability launches than as evidence of broad consumer adoption. The practical issue is that AI is starting to mediate consideration, and that changes what retailers must be good at.
+
+A retailer with sloppy product data could once compensate with a handsome website, a strong brand campaign, or a well-trained store associate. In an AI-mediated environment, those advantages still matter, but they arrive later. First the machine has to understand the product. That means accurate attributes, consistent taxonomy, current pricing, accessible reviews, and inventory data that do not contradict themselves across systems, as reflected in [Google Search Central's product structured data guidance](https://developers.google.com/search/docs/appearance/structured-data/product) and broader [Google Search documentation](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
+
+This is less glamorous than "agentic commerce," but more urgent. Retailers do not need to reorganize around robot shoppers. They do need to treat machine-readable merchandising as a serious operating capability. The evidence suggests the fastest, lowest-risk move is not building a new customer-facing agent. It is making the existing product catalog legible to machines, a data and taxonomy exercise many organizations can complete in a few quarters with tools they already license, not a multi-year platform bet. It is also the cheapest way to test the AI-discovery thesis on a firm's own numbers, by watching whether AI-origin traffic and its conversion improve once the underlying data does, before committing to anything bigger.
+
+## The digital shelf is becoming a machine shelf
+
+That requirement exposes an old weakness. Many retailers still treat product content as a downstream e-commerce chore. Merchants choose the assortment, marketers tell the story, IT runs the systems, and someone in digital commerce tidies up the copy. That division of labor was always clumsy. It becomes costlier when discovery depends on machine interpretation.
+
+Official guidance from search and platform providers is not mysterious on this point. Structured data, authoritative metadata, crawlable pages, and durable product information remain the technical baseline for visibility, as shown in [Google Search Central's product structured data documentation](https://developers.google.com/search/docs/appearance/structured-data/product) and broader [Google Search documentation](https://developers.google.com/search/docs). What remains unsettled is the industry's favorite new phrase, "Generative Engine Optimization." There is plenty of practitioner chatter and little hard proof. The evidence suggests it is worth distinguishing between what is established and what is conjecture.
+
+The established part is straightforward. Search and recommendation systems have long favored structured, current, and authoritative data. AI systems that synthesize product recommendations are unlikely to prefer stale, contradictory, or semantically weak information instead. The conjectural part is the promise that a new bag of optimization tricks will reliably win placement inside large language models. The evidence for that is sparse.
+
+This distinction matters because it changes where investment should go. On the available evidence, the first dollar should not go to a fashionable "agent platform." It should go to the unlovely foundations: product information management, taxonomy discipline, content governance, and analytics that can isolate AI-origin traffic where possible, a priority consistent with [Adobe's evidence on AI-origin retail traffic](https://news.adobe.com/news/news-details/2025/AI-shopping-traffic-surges-1200-during-holiday-season/default.aspx) and [Deloitte's discussion of retail operating pressures and capabilities](https://www2.deloitte.com/us/en/insights/industry/retail-distribution/retail-industry-outlook.html).
+
+There is a strategic wrinkle here. If discovery shifts toward intermediated environments, brand websites may lose some primacy as the first point of contact, even if they remain important for margin, loyalty, and brand expression. That does not mean direct channels are doomed. It means their role may change from being the main front door to being one node in a wider ecosystem of machine-mediated discovery and comparison. Firms with dense product data and strong taxonomies may be better placed for that world, which is one reason marketplaces and large platforms may appear advantaged, though that conclusion is still an inference rather than a directly proven structural law.
+
+For many retailers, this is a place to move without waiting for the "GEO" debate to resolve. Assigning single ownership of product data, rather than splitting it across merchandising, marketing, and IT, is an organizational decision, not a technology purchase. AI itself can be pointed at the unglamorous work: normalizing attributes, flagging contradictory listings across systems, and drafting structured metadata at a scale no content team could match by hand. None of that requires buying a new AI product. It requires pointing existing AI capability at the plumbing first.
+
+## Health is no longer a niche variable
+
+If AI is changing how consumers find products, health is changing what some of them buy. Here the evidence is firmer, though narrower than the hype suggests.
+
+The clearest case is GLP-1 medication. A Cornell University and Numerator analysis found that households with at least one GLP-1 user reduced grocery spending by roughly 5.5% to 6% within six months, with larger reductions in calorie-dense and processed categories, according to [Cornell's summary of the study](https://news.cornell.edu/stories/2024/07/ozempic-users-spend-less-groceries-study-finds). [Walmart executives](https://www.reuters.com/business/retail-consumer/walmart-sees-slight-change-shopping-patterns-customers-taking-weight-loss-drugs-2023-10-05/) have also said they observed changes in basket composition among customers taking weight-loss drugs, based on anonymized data patterns, as reported by Reuters. That is enough to treat the phenomenon as operationally relevant, especially in grocery.
+
+It is not enough to justify every grand extrapolation now circulating. The strongest evidence concerns food purchasing. Broader claims about a sweeping retail transformation across apparel, beauty, and general merchandise remain speculative. There may well be spillovers through body-size changes, wellness identity, or reallocated spending, but the public evidence is not yet robust enough to treat those as settled facts.
+
+Wearables tell a related story. Many consumers now measure sleep, activity, heart rate, and related health signals, and wearable-device markets remain large, as suggested by [Pew Research Center's U.S. survey on smartwatch and fitness-tracker use](https://www.pewresearch.org/short-reads/2020/01/09/about-one-in-five-americans-use-a-smart-watch-or-fitness-tracker/) and [IDC's worldwide wearable-device tracker release](https://www.idc.com/getdoc.jsp?containerId=prUS52060324). The significance for retail is not that every merchant should become a health platform. It is that health is becoming a more visible and behaviorally salient part of consumer identity. That can shape assortment, messaging, and partnerships, particularly in food, beauty, and categories adjacent to wellness.
+
+The lesson is one of granularity. Health is not a generic trend to be acknowledged in a keynote. It is a category-level demand variable. Some retailers will need to rethink assortment and forecasting. Others will simply need to resist overgeneralizing from grocery to everything else. The evidence suggests the immediate AI opportunity is measurement before strategy: using existing data to see where a health-linked demand shift is actually visible by category and store cluster, and where it is not.
+
+## Experiences are taking wallet share, and value still rules
+
+The post-pandemic consumer has not abandoned goods. But in many markets, discretionary spending has tilted toward travel, dining, and live events, as reflected in [Mastercard Economics Institute's *Travel Trends 2025*](https://www.mastercardservices.com/en/advisors/economics-institute/insights/travel-trends-2025). That creates a subtler problem for retailers than a collapse in demand. They are no longer competing only against rival merchants. They are competing against holidays, concerts, and restaurants for the same discretionary dollar.
+
+For fashion and luxury, this has two implications. One is commercial: occasion-linked categories may benefit from travel and social activity, while more deferrable purchases become easier to postpone. The other is strategic: product alone may be less effective as an attention magnet, which helps explain the industry's renewed interest in events, services, hospitality, and community. Yet the evidence does not support the lazy conclusion that every retailer should become an "experience business." In many categories, experiential retail is likely to work best as a selective complement for high-margin or high-consideration purchases, not as a universal formula, a judgment informed by [Mastercard Economics Institute's spending analysis](https://www.mastercardservices.com/en/advisors/economics-institute/insights/travel-trends-2025).
+
+At the same time, consumers remain resourceful in ways that look structural rather than temporary. [Deloitte](https://www2.deloitte.com/us/en/insights/industry/retail-distribution/retail-industry-outlook.html) describes persistent value-seeking and selective spending even as inflation moderates in its *2024 Global Retail Outlook*. [thredUP's resale data](https://www.thredup.com/resale), though commercially interested, point in the same direction for secondhand apparel in its *2024 Resale Report*. Consumers are comparing prices more aggressively, delaying replacement, and using a wider mix of channels to maximize value.
+
+This is awkward for retailers because it fragments the value equation. A shopper may splurge on travel, trade down in basics, buy fewer items overall, and still expect better quality from the pieces they do buy. They may use a brand's own channels for inspiration and another platform for purchase. They may want premium storytelling and outlet pricing in the same week.
+
+That behavior is not irrational. It is disciplined. And it makes forecasting harder. Pricing architecture, loyalty design, and lifecycle economics all become more complicated when consumers are neither uniformly frugal nor uniformly premium, but selectively both. For many retailers, AI's more immediate contribution here is not building a new experience business. It is making the existing marketing and pricing budget work harder against a more fragmented customer.
+
+## What this means now, and what can wait
+
+The temptation in retail is always to mistake a directional shift for a finished market. That would be a mistake here.
+
+The evidence does support a meaningful change in the path to purchase. AI is beginning to alter discovery and evaluation. It does support the claim that product data and content governance are becoming more strategic. It does support the view that GLP-1 adoption is affecting grocery demand, that experiences are taking wallet share in many markets, and that value-seeking behavior remains persistent, based on [McKinsey](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-the-consumer-2025-when-disruption-becomes-permanent), [Adobe](https://news.adobe.com/news/news-details/2025/AI-shopping-traffic-surges-1200-during-holiday-season/default.aspx), [Cornell](https://news.cornell.edu/stories/2024/07/ozempic-users-spend-less-groceries-study-finds), [Mastercard Economics Institute](https://www.mastercardservices.com/en/advisors/economics-institute/insights/travel-trends-2025), and [Deloitte](https://www2.deloitte.com/us/en/insights/industry/retail-distribution/retail-industry-outlook.html).
+
+It does not yet support the bolder claims that autonomous shopping agents are about to dominate retail, that "Generative Engine Optimization" is a settled discipline with proven tactics, or that health trends have already rewritten every category. Several headline statistics often used to dramatize these shifts could not be verified from accessible primary sources and are better discarded than repeated.
+
+That leaves a less thrilling but more useful agenda. Start with moves that are cheap and reversible, and treat the expensive structural bets as follow-on decisions once internal data confirms them. In rough order, that means fixing product data and its ownership first; instrumenting the business to detect AI-origin traffic and category-level health and value shifts; and only then funding the larger, harder-to-reverse commitments once internal evidence, rather than this year's trend pieces, says the bet is warranted.
+
+The central question is not whether to bet on a single trend. It is whether a retailer can cope with a world in which discovery is more intermediated, demand signals are more fragmented, and consumers are more strategic. The winners may not be the firms with the loudest AI story, but the ones that quietly make themselves easier for machines to understand, quicker to detect category shifts, and harder for resourceful consumers to outmaneuver.
+
+## Join the discussion
+
+If a retailer could build only one new dashboard this year, should it track machine-readable catalog quality, AI-origin traffic, or category-level exposure to health and value shifts?
+
+## Sources worth exploring
+
+* [*The State of the Consumer 2025: When disruption becomes permanent*](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-the-consumer-2025-when-disruption-becomes-permanent), McKinsey, 2025. Useful for directional survey evidence on consumer use of generative AI in shopping, especially by age cohort, though it relies on self-reported behavior rather than observed transactions.
+* [*AI shopping traffic surges 1,200 percent during holiday season*](https://news.adobe.com/news/news-details/2025/AI-shopping-traffic-surges-1200-during-holiday-season/default.aspx), Adobe, 2025. Worth opening for observed traffic and engagement data from AI sources into retail sites, with the usual caveat that it reflects Adobe's measurement universe.
+* [*Ozempic users spend less on groceries, study finds*](https://news.cornell.edu/stories/2024/07/ozempic-users-spend-less-groceries-study-finds), Cornell Chronicle, 2024. A concise entry point into the Cornell and Numerator work on GLP-1-linked grocery basket changes, and one of the stronger pieces of evidence in this debate.
+* [*2024 Global Retail Outlook*](https://www2.deloitte.com/us/en/insights/industry/retail-distribution/retail-industry-outlook.html), Deloitte, 2024. Helpful for framing persistent value-seeking and the operating pressures facing retailers, though it is an executive synthesis rather than a primary behavioral dataset.
+* [*Product structured data*](https://developers.google.com/search/docs/appearance/structured-data/product), Google Search Central. Essential for understanding the technical baseline of machine-readable product visibility, which matters more than many of the louder claims around AI commerce.
+
+## Continue reading
+
+- [The Five-Layer Retail AI Stack: From SKU Data to Store Labor](https://jeffreyneville.substack.com/p/the-five-layer-retail-ai-stack-from) — A practical companion on the data, workflow and decision-making foundations behind the AI priorities discussed here.
+- [The Conway Trap: Do Not Automate Yesterday's Customer Experience](https://jeffreyneville.substack.com/p/the-conway-trap-do-not-automate-yesterdays-customer-experience) — Why fixing product-data ownership and cross-functional decisions matters more than adding isolated AI tools.
